@@ -1,3 +1,8 @@
 .DS_Store
 
 tmp/
+
+.index.html.un~
+.gitignore.un~
+.README.md.un~
+.about.html.un~
